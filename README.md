@@ -18,7 +18,6 @@ En este repositorio se realizaran todos los proyectos de los challenge de ONE
 
 Este tipo de README hace que tu proyecto sea más profesional y fácil de entender para otros, especialmente si alguien más quisiera contribuir o usar tu código.
 
-¿Te gustaría agregar algo más o tienes alguna pregunta sobre cómo personalizar aún más tu README?
 
 
 
