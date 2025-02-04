@@ -36,9 +36,4 @@ Este tipo de README hace que tu proyecto sea más profesional y fácil de entend
 
 Este proyecto es un archivo estático HTML, CSS y JavaScript, por lo que no requiere ninguna instalación o dependencias adicionales.
 
-##### Pasos para usar:
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
   
