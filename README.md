@@ -13,8 +13,7 @@ En este repositorio se realizaran todos los proyectos de los challenge de ONE
 - **Dependencias**: Menciona que no se requieren librerías externas.
 - **Uso**: Explica cómo usar la aplicación una vez que se haya abierto en el navegador.
 - **Posibles problemas y soluciones**: Proporciona algunas respuestas a posibles inconvenientes comunes.
-- **Contribuciones**: Abierto para contribuciones externas, dando ideas para mejorar el proyecto.
-- **Licencia**: Aquí puedes agregar la licencia bajo la cual distribuyes el proyecto, como la Licencia MIT o cualquier otra.
+
 
 Este tipo de README hace que tu proyecto sea más profesional y fácil de entender para otros, especialmente si alguien más quisiera contribuir o usar tu código.
 
