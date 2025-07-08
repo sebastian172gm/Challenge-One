@@ -1,38 +1,58 @@
-# Challenge-One
-En este repositorio se realizaran todos los proyectos de los challenge de ONE
+# 🛒 Alora Store LATAM - Data Challenge
 
-### Amigo Secreto
+Este proyecto tiene como objetivo aplicar técnicas de análisis de datos para ofrecer una recomendación estratégica a la empresa **Alora Store LATAM** sobre cuál de sus tiendas debería recibir el apoyo de un nuevo vendedor (el Sr. João), con el fin de mejorar su rendimiento y optimizar los resultados comerciales.
+
+---
+
+## 📌 Objetivo
+
+Determinar cuál de las tiendas de Alora Store LATAM necesita más apoyo comercial, basándonos en datos históricos de ventas, calificaciones de clientes, costos de envío y desempeño de productos, para recomendar al Sr. João dónde enfocarse como nuevo vendedor.
+
+---
+
+## 🧰 Herramientas utilizadas
+
+- Python (Pandas, Seaborn, Matplotlib)
+- Jupyter / Google Colab
+- Git y GitHub para control de versiones
+- Visualizaciones avanzadas
+- JSON & CSV handling
+
+---
+
+## ⚙️ Metodología ETL
+
+1. **Extracción:**  
+2. **Transformación:**  
+3. **Carga:**  
+
+---
+
+## 📊 Análisis Exploratorio de Datos (EDA)
+
+Es un enfoque en el análisis de datos que se centra en explorar y resumir las características principales de un conjunto de datos utilizando principalmente métodos visuales.
+
+---
+
+## 🧠 Insight principal
+
+Se identificó que:
+
+- **Store_1** y **Store_2** son las más rentables y estables.
+- **Store_3** mantiene un rendimiento moderado.
+- **🚨 Store_4 presenta el desempeño más bajo** en ingresos, satisfacción de clientes y productos vendidos, además de tener costos logísticos más elevados.
+
+---
+
+## ✅ Recomendación final
+
+> 📌 **El Sr. João debería vender en _Store_4_**.
+
+Store_4 es la tienda con mayor potencial de mejora, ya que actualmente está rezagada respecto a las demás. Reforzar su catálogo de productos y atención al cliente podría equilibrar el rendimiento entre todas las sucursales de Alora Store LATAM.
 
 
-#### Explicación de cada sección:
-
-- **Descripción**: Breve resumen de qué hace la aplicación.
-- **Características**: Lista las funcionalidades principales de la aplicación.
-- **Instalación**: Explica cómo clonar el repositorio y cómo ejecutar el proyecto localmente.
-- **Estructura del Proyecto**: Muestra cómo están organizados los archivos dentro del proyecto.
-- **Dependencias**: Menciona que no se requieren librerías externas.
-- **Uso**: Explica cómo usar la aplicación una vez que se haya abierto en el navegador.
-- **Posibles problemas y soluciones**: Proporciona algunas respuestas a posibles inconvenientes comunes.
-
-
-Este tipo de README hace que tu proyecto sea más profesional y fácil de entender para otros, especialmente si alguien más quisiera contribuir o usar tu código.
 
 
 
-
-#### Descripción
-
-**Amigo Secreto** es una aplicación web que permite a los usuarios agregar nombres de amigos, realizar un sorteo aleatorio y descubrir quién es su amigo secreto. La aplicación es simple, fácil de usar y adecuada para hacer sorteos en eventos como fiestas, intercambios de regalos, etc.
-
-#### Características
-
-- **Agregar nombres**: Los usuarios pueden escribir y añadir nombres a la lista de amigos.
-- **Validación de entrada**: Si el campo está vacío, muestra una alerta para que el usuario ingrese un nombre válido.
-- **Visualización de lista**: Todos los nombres ingresados se muestran en una lista visible.
-- **Sorteo aleatorio**: Al hacer clic en "Sortear amigo", la aplicación selecciona un nombre aleatorio de la lista y muestra al amigo secreto.
-
-#### Instalación
-
-Este proyecto es un archivo estático HTML, CSS y JavaScript, por lo que no requiere ninguna instalación o dependencias adicionales.
 
   
