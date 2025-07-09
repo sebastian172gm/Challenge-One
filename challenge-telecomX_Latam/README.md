@@ -1,38 +1,35 @@
-# Challenge-One
-En este repositorio se realizaran todos los proyectos de los challenge de ONE
+# TelecomX LATAM - Análisis de Evasión de Clientes (Churn)
 
-### Amigo Secreto
+Has sido contratado como asistente de análisis de datos en Telecom X y formarás parte del proyecto "Churn de Clientes". La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
 
+Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y sus principales bibliotecas para extraer información valiosa. A partir de tu análisis, el equipo de Data Science podrá avanzar en modelos predictivos y desarrollar estrategias para reducir la evasión.
 
-#### Explicación de cada sección:
+¿Qué vas a practicar?
+✅ Importar y manipular datos desde una API de manera eficiente.
+✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
+✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
+✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 
-- **Descripción**: Breve resumen de qué hace la aplicación.
-- **Características**: Lista las funcionalidades principales de la aplicación.
-- **Instalación**: Explica cómo clonar el repositorio y cómo ejecutar el proyecto localmente.
-- **Estructura del Proyecto**: Muestra cómo están organizados los archivos dentro del proyecto.
-- **Dependencias**: Menciona que no se requieren librerías externas.
-- **Uso**: Explica cómo usar la aplicación una vez que se haya abierto en el navegador.
-- **Posibles problemas y soluciones**: Proporciona algunas respuestas a posibles inconvenientes comunes.
-
-
-Este tipo de README hace que tu proyecto sea más profesional y fácil de entender para otros, especialmente si alguien más quisiera contribuir o usar tu código.
+¡Ahora es tu turno! 🚀 Usa tus conocimientos para transformar datos en información estratégica y ayudar a Telecom X a retener más clientes.
 
 
 
+---
 
-#### Descripción
+## 🚀 Objetivo
 
-**Amigo Secreto** es una aplicación web que permite a los usuarios agregar nombres de amigos, realizar un sorteo aleatorio y descubrir quién es su amigo secreto. La aplicación es simple, fácil de usar y adecuada para hacer sorteos en eventos como fiestas, intercambios de regalos, etc.
+Comprender los factores que influyen en la evasión de clientes para tomar decisiones estratégicas que mejoren la retención.
+Este proyecto tiene como objetivo identificar patrones de evasión de clientes en una empresa de telecomunicaciones utilizando análisis exploratorio de datos (EDA) y visualizaciones.
 
-#### Características
 
-- **Agregar nombres**: Los usuarios pueden escribir y añadir nombres a la lista de amigos.
-- **Validación de entrada**: Si el campo está vacío, muestra una alerta para que el usuario ingrese un nombre válido.
-- **Visualización de lista**: Todos los nombres ingresados se muestran en una lista visible.
-- **Sorteo aleatorio**: Al hacer clic en "Sortear amigo", la aplicación selecciona un nombre aleatorio de la lista y muestra al amigo secreto.
+---
 
-#### Instalación
+## 🧰 Tecnologías Utilizadas
 
-Este proyecto es un archivo estático HTML, CSS y JavaScript, por lo que no requiere ninguna instalación o dependencias adicionales.
+- Python 3
+- Pandas, NumPy
+- Seaborn, Matplotlib
+- Scikit-learn (opcional si se aplica modelo predictivo)
+- Jupyter Notebook
 
-  
+---
