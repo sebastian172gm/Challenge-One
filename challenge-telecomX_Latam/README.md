@@ -32,4 +32,10 @@ Este proyecto tiene como objetivo identificar patrones de evasión de clientes e
 - Scikit-learn (opcional si se aplica modelo predictivo)
 - Jupyter Notebook
 
+
+
+## 📊 Análisis Exploratorio de Datos (EDA)
+
+Es un enfoque en el análisis de datos que se centra en explorar y resumir las características principales de un conjunto de datos utilizando principalmente métodos visuales.
+
 ---
